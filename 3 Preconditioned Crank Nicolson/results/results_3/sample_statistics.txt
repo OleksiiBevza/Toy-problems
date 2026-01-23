@@ -1,0 +1,17 @@
+pm (mean of MCMC samples):
+[-1.8419 -2.2858  5.0372 -3.3552 -3.3779]
+
+pv (variance of MCMC samples):
+[ 0.952  15.2267  8.2767  7.6849 11.7345]
+
+ps (std dev of MCMC samples):
+[0.9757 3.9021 2.8769 2.7722 3.4256]
+
+qm (mean of true samples):
+[-1.8184 -2.2928  5.0325 -3.3692 -3.366 ]
+
+qv (variance of true samples):
+[ 0.9493 15.0989  8.1979  7.5063 11.7166]
+
+qs (std dev of true samples):
+[0.9743 3.8857 2.8632 2.7398 3.423 ]
